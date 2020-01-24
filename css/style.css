@@ -1,0 +1,52 @@
+
+body {
+    
+    background-color: rgb(254, 234, 217);
+    color: rgb(160, 116, 116);
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: 1.4;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a {
+    color: rgb(132, 100, 132);
+}
+
+a:visited{
+    color: grey;
+
+}
+
+.bio {
+    background-color: white;
+    text-align: center;
+}
+
+.contact { 
+    list-style: none;
+}
+
+footer {
+    background-color:white;
+    text-align: center;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
